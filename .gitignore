@@ -1,0 +1,3 @@
+wpshell
+wordpress/*
+!wordpress/wp-content/themes/twentytwentyone/*
